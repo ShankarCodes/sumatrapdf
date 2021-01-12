@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat" x86_amd64
+MsBuild.exe vs2019\SumatraPDF.sln /t:Build /p:Configuration=Release
+add a /m
+Line 3994 SUmatrapdf.cpp
